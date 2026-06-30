@@ -37,4 +37,4 @@ Hoje entendo que a etapa mais importante é fazer as perguntas certas e validar 
 
 ## Como pretendo aplicar
 
-No projetos futuros, quero iniciar entendendo o problema, analisando o repositório, levantando dúvidas, identificando riscos e somente depois partir para wireframes.
+Em projetos futuros, quero iniciar entendendo o problema, analisando o repositório, levantando dúvidas, identificando riscos e somente depois partir para wireframes.
