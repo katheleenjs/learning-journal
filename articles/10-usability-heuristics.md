@@ -77,3 +77,5 @@ Antes de considerar uma interface finalizada, quero verificar pontos como:
 - As mensagens de erro ajudam na recuperação?
 
 Acredito que utilizar esse checklist pode melhorar significativamente a qualidade das minhas interfaces.
+
+---
