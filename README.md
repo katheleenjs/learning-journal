@@ -33,8 +33,7 @@ learning-journal/
 ├── articles/
 ├── frontend/
 ├── product-design/
-├── ux/
-└── weekly-notes/
+└── ux/
 ```
 
 ---
@@ -52,26 +51,6 @@ Conceitos, frameworks, metodologias e processos relacionados ao desenvolvimento 
 
 ### UX/UI Design
 Estudos sobre experiência do usuário, pesquisa, acessibilidade, arquitetura da informação e design de interfaces.
-
-### Weekly Notes
-Registros semanais da minha evolução, principais aprendizados e próximos objetivos.
-
----
-
-## Progresso
-
-### Product Design
-
-- ✅ Discovery
-- ✅ Benchmark
-- ✅ Personas
-- ✅ User Interviews
-- ✅ Jobs to Be Done
-- [ ] User Journey
-- [ ] Information Architecture
-- [ ] User Flows
-- [ ] Usability Testing
-- [ ] Design Systems
 
 ---
 
@@ -104,6 +83,6 @@ Este repositório faz parte da minha jornada de aprendizado e reúne conheciment
 Vamos nos conectar?
 
 - LinkedIn: https://www.linkedin.com/in/katheleenjesus
-- Portfólio: em breve
+- Portfólio: https://katheleenjs.github.io/portfolio/
 
 Em constante aprendizado.
