@@ -31,6 +31,7 @@ Mais do que reunir anotações, meu objetivo é consolidar o conhecimento adquir
 learning-journal/
 │
 ├── articles/
+├── college/
 ├── frontend/
 ├── product-design/
 └── ux/
@@ -42,6 +43,9 @@ learning-journal/
 
 ### Artigos
 Resumos e reflexões de artigos, livros, newsletters e outros conteúdos que contribuíram para meu aprendizado.
+
+### Faculdade
+Minhas anotações do curso de Design Digital e UX.
 
 ### Front-end
 Anotações sobre HTML, CSS, JavaScript, Git, GitHub e outras tecnologias utilizadas no desenvolvimento web.
@@ -57,10 +61,7 @@ Estudos sobre experiência do usuário, pesquisa, acessibilidade, arquitetura da
 ## Atualmente estudando
 
 - Product Design
-- UX Research
-- Front-end
-- Git e GitHub
-- Design Systems
+- Semiótica e Percepção Visual
 
 ---
 
@@ -74,9 +75,9 @@ Este repositório representa minha evolução e demonstra meu compromisso com o 
 
 ## Sobre mim
 
-Olá! Eu sou a Katheleen. 👋
+Olá! Eu sou a Katheleen
 
-Estou em transição para a área de Tecnologia, com foco em Product Design e UX/UI Design.
+Sou estudante de Design Digital e UX, buscando uma vaga de estágio com foco em Product Design e UX/UI Design.
 
 Este repositório faz parte da minha jornada de aprendizado e reúne conhecimentos que pretendo aplicar em projetos reais e na minha carreira.
 
